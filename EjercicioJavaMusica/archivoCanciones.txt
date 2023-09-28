@@ -1,0 +1,7 @@
+1,Godzilla,Eminem,211,Music to be murdered by,lyrics/godzilla-eminem.txt
+2,Lonely Day,Sistem Of A Down,208,Hypnotize,No path defined
+3,Moving On,Rare Americans,175,You're not a bad person, it's just a bad world
+4,Devil Town,Cavetown,180,Cavetown,No path defined
+5,Come along with me,Adventure time,109,Adventure Time: Come Along With Me,No path defined
+6,I Really Want to stay at your house,Rosa Walton & Hallie Coggins,247,Cyberpunk2077:Radio, Vol 2
+7,As the World Caves In,Sarah Cothran,181,As the World Caves In,No path defined
